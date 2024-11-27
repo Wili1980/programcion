@@ -1,6 +1,3 @@
 
 bananas
 manzanas
-peras
-limas
-arros
